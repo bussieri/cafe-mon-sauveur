@@ -1,3 +1,5 @@
 ceci est un test de gestion de git v.1a
 
 j'ajoute du texte dans 1a
+
+j'ajoute encore du texte dans la 1a
